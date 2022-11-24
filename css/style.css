@@ -57,6 +57,10 @@ ul {
   justify-content: center;
 }
 
+span{
+  background-color: rgba(57, 57, 57, 0.502);
+}
+
 /* hover */
 .image-gallery li:hover .overlay {
   transform: scale(1);
