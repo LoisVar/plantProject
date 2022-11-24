@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+ <title>Plants</title>
+ <description>This page shows diferents types of plants</description>
+ <link>https://loisvar.github.io/plantProject/</link>
+ <pubDate>Thu, 24 Nov 2022 14:30:00 GMT+1</pubDate>
+ <managingEditor>a22loisvr@iessanclemente@iessanclemente.net</managingEditor>
+ <item>
+ <title>Water Lily</title>
+ <link>https://loisvar.github.io/plantProject/lily.html</link>
+ <pubDate>Thu, 24 Nov 2022 14:30:00 GMT+1</pubDate>
+ <description>Water lily information</description>
+ </channel>
+</rss>
